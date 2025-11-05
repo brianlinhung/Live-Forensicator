@@ -14,7 +14,7 @@ Live Forensicator is part of the Black Widow Toolbox, its aim is to assist Foren
 
 ```python
 # copy the files to the computer
-git clone https://github.com/Johnng007/Live-Forensicator.git
+git clone https://github.com/brianlinhung/Live-Forensicator.git
 
 # move into the MacOS directory
 cd MacOS
@@ -114,5 +114,6 @@ Initial Beta Release
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/forensicator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ebuka" /></a></p><br><br>
+
 
 
