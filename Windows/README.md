@@ -249,13 +249,7 @@ NOTE: You can just double-click the exe to run the default checks
 <img src="https://github.com/Johnng007/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML3.png?raw=true" alt="Forensicator"  /> <br>
 <br></br>
 
-## Contributing
-Just to let you know, pull requests are welcome. For major changes, please open an issue first to talk about what you would like to change or add.
 
-
-
-## License
-[MIT](https://mit.com/licenses/mit/)
 
 
 <h3 align="left">Support:</h3>
