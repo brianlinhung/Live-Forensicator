@@ -1,23 +1,6 @@
 <h1 align="center">📝 Forensicator 📝</h1>
 <h3 align="center">POWERSHELL SCRIPT TO AID LIVE FORENSICS & INCIDENCE RESPONSE</h3>
                                                
-```bash
-
-
-___________                                .__               __                
-\_   _____/__________   ____   ____   _____|__| ____ _____ _/  |_  ___________ 
- |    __)/  _ \_  __ \_/ __ \ /    \ /  ___/  |/ ___\\__  \\   __\/  _ \_  __ \
- |     \(  <_> )  | \/\  ___/|   |  \\___ \|  \  \___ / __ \|  | (  <_> )  | \/
- \___  / \____/|__|    \___  >___|  /____  >__|\___  >____  /__|  \____/|__|   
-     \/                    \/     \/     \/        \/     \/                    
-
-                                                                          v4.0.1
-
-
-
-```
-
-
 # 🤔 ABOUT
 
 Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic Investigators and Incident responders in carrying out a quick live forensic investigation.
