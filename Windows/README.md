@@ -255,5 +255,3 @@ NOTE: You can just double-click the exe to run the default checks
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/forensicator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ebuka" /></a></p><br><br>
 
-<h3 align="left">Connect with me:</h3>
-
