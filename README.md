@@ -1,24 +1,24 @@
 
-# 🤔 ABOUT
+#  ABOUT
 
 Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic Investigators and Incident responders in carrying out a quick live forensic investigation.
 <p>It achieves this by gathering different system information for further review for anomalous behavior or unexpected data entry, it also looks out for unusual files or activities and points it out to the investigator.</p>
 <p>It is paramount to note that these scripts have no inbuilt intelligence it's left for the investigator to analyze the output and decide on a conclusion or conduct a deeper investigation.</p>
 
-# 🖳 Forensic For WINDOWS
+# Forensic For WINDOWS
 <p>The windows version of Forensicator is written in Powershell.</p>
 <p> Forensicator for Windows has added the ability to analyze Event Logs, it queries the event logs for certain log IDs that might point to unusual activity or compromise. </p>
 
 [Check out Forensicator for Windows](https://github.com/brianlinhung/Live-Forensicator/tree/main/Windows)
 
 
-# 👨‍💻 Forensic For MacOS
+# Forensic For MacOS
 <p>The MacOS version is a shell script.</p>
 
 [Check out Forensicator for MacOS](https://github.com/brianlinhung/Live-Forensicator/tree/main/MacOS/)
 
 
-# 👩‍💻 Forensic For LINUX
+# Forensic For LINUX
 <p>The Linux version is written in Bash.</p>
 
 [Check out Forensicator for Linux](https://github.com/brianlinhung/Live-Forensicator/tree/main/Linux)
@@ -28,7 +28,7 @@ Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic
 
 
 
-## ✍ General Notes
+## General Notes
 * Run the scripts as a privileged user to get value.<br>
 
 * Forensicator Activities may be flagged by IDS or IPS Solutions so take note.<br>
@@ -51,7 +51,7 @@ Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic
 
 * <p>In the Windows module Forensictor Matches hashes of executables within the system to malicious hash databases for malware detection, Also browsing history URLs are matched against a list of latest URLs from IOCs for detection.</p>
 
-## ✨ ChangeLog
+## ChangeLog
 [See Wiki](https://github.com/brianlinhung/Live-Forensicator/wiki/Changelog) For full Changelog.
 Windows: v4.0.2 07/08/2024
 1. Windows: Added hash check for malware detection.
