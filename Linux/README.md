@@ -1,9 +1,9 @@
-<h1 align="center">📝 Forensicator 📝</h1>
+<h1 align="center"> Forensic</h1>
 <h3 align="center">BASH SCRIPT TO AID LIVE FORENSICS & INCIDENCE RESPONSE</h3>
 <h3 align="center">Linux Digital Forensics Tool</h3>
                                                
 
-# 🤔 ABOUT
+#  ABOUT
 
 Live Forensicator is part of the Black Widow Toolbox, its aim is to assist Forensic Investigators and Incidence responders in carrying out a quick live forensic investigation.
 <p>It achieves this by gathering different system information for further review for anomalous behaviour or unexpected data entry, it also looks out for unusual files or activities and points it out to the investigator.</p>
@@ -13,7 +13,7 @@ Live Forensicator is part of the Black Widow Toolbox, its aim is to assist Foren
 
 ```bash
 
-## 🎫 Optional Dependencies
+##  Optional Dependencies
 
 This script is written in bash for use on Linux PCs and Servers. 
 For additional features it depends on external binaries, they are in the Forensicator-Share folder.
@@ -25,7 +25,7 @@ But Forensicator can work without these dependencies, they just help with additi
 > `aqlite3`  Aids in Browsing history extraction (https://sqlite.org/)
 
 
-## 🔨 Usage
+##  Usage
 
 ```bash
 # copy the files to the computer
@@ -39,7 +39,7 @@ cd Linux && chmod 777 Forensicator.sh
 
 ```
 
-## 🥊 Examples
+##  Examples
 
 ```python
 # Basic
@@ -84,7 +84,7 @@ cd Linux && chmod 777 Forensicator.sh
 
 ```
 
-## ✍ Notes
+##  Notes
 * Run the script as an administrator to get value.<br>
 
 * Forensicator Activities may be flagged by IDS or IPS Solutions so take note.<br>
@@ -174,23 +174,6 @@ cd Linux && chmod 777 Forensicator.sh
    10.  Web Logs
 
 ```
-
-
-
-## 🤔 MORE TOOLS
-Want to check out other Black Widow Tools?
-1. Anteater - A python based web reconnaisence tool. https://github.com/brianlinhung/Anteater
-2. Nessus Pro API - A powershell Script to Export and Download Nessus Scan Results via Nessus API. https://github.com/brianlinhung/PowershellNessus
-
-
-## Screenshot
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_Output.png?raw=true" alt="Forensicator"  /> <br>
-## HTML Output
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML1.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML2.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML3.png?raw=true" alt="Forensicator"  /> <br>
-<br></br>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/forensicator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ebuka" /></a></p><br><br>
