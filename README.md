@@ -51,15 +51,6 @@ Live Forensicator is part of the Black Widow Toolbox, it aims to assist Forensic
 
 * <p>In the Windows module Forensictor Matches hashes of executables within the system to malicious hash databases for malware detection, Also browsing history URLs are matched against a list of latest URLs from IOCs for detection.</p>
 
-
-## Screenshot
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_Output.png?raw=true" alt="Forensicator"  /> <br>
-## HTML Output
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML1.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML2.png?raw=true" alt="Forensicator"  /> <br>
-<img src="https://github.com/brianlinhung/Live-Forensicator/blob/main/styles/vendors/images/Forensicator_HTML3.png?raw=true" alt="Forensicator"  /> <br>
-<br></br>
-
 ## ✨ ChangeLog
 [See Wiki](https://github.com/brianlinhung/Live-Forensicator/wiki/Changelog) For full Changelog.
 Windows: v4.0.2 07/08/2024
