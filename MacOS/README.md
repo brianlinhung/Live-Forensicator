@@ -1,8 +1,8 @@
-<h1 align="center">📝 Forensicator 📝</h1>
+<h1 align="center"> Forensic</h1>
 <h3 align="center">Live Forensicator for MacOS</h3>
 
 
-# 🤔 ABOUT
+#  ABOUT
 
 Live Forensicator is part of the Black Widow Toolbox, its aim is to assist Forensic Investigators and Incidence responders in carrying out a quick live forensic investigation.
 <p>It achieves this by gathering different system information for further review for anomalous behaviour or unexpected data entry, it also looks out for unusual files or activities and points it out to the investigator.</p>
@@ -10,7 +10,7 @@ Live Forensicator is part of the Black Widow Toolbox, its aim is to assist Foren
 <p>It is paramount to note that this script has no inbuilt intelligence its left for the investigator to analyse the output and decide on a conclusion or decide on carrying out more deeper investigation.</p>
 
 
-## 🔨 Usage
+##  Usage
 
 ```python
 # copy the files to the computer
@@ -27,7 +27,7 @@ chmod 777 Forensicator.sh
 
 ```
 
-## 🥊 Examples
+##  Examples
 
 ```python
 # All Feature Execution
@@ -35,7 +35,7 @@ chmod 777 Forensicator.sh
 
 ```
 
-## ✍ Notes
+##  Notes
 * Run the script on a root shell to get value.<br>
 
 * Make sure your terminal has Full Disk Access Permission.<br>
@@ -45,7 +45,7 @@ chmod 777 Forensicator.sh
   Use the index.html page to easily navigate the findings from Menu.
 
 
-## 🔥 What Forensicator Grabs
+## What Forensicator Grabs
 ```bash
 
    =================================
@@ -98,22 +98,9 @@ chmod 777 Forensicator.sh
 
 ```
 
-## ✨ ChangeLog
-```bash
-v0.1 23/01/2023
-Initial Beta Release
-
-```
-
-## Screenshot
-
-## HTML Output
-<img src="https://i.imgur.com/2VlqwDL.png" alt="Forensicator"  /> <br>
-<br></br>
-
-
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/forensicator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ebuka" /></a></p><br><br>
+
 
 
 
