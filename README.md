@@ -60,6 +60,6 @@ Windows: v4.0.2 07/08/2024
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/forensicator"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ebuka" /></a></p><br><br>
+<p>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B31O5BG6)</a></p><br><br>
 
 
